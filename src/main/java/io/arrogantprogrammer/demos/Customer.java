@@ -1,4 +1,4 @@
-package com.redhat.demos;
+package io.arrogantprogrammer.demos;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntity;
 

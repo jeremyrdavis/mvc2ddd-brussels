@@ -1,4 +1,4 @@
-package com.redhat.demos;
+package io.arrogantprogrammer.demos;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;

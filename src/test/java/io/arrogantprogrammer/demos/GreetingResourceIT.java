@@ -1,4 +1,4 @@
-package com.redhat.demos;
+package io.arrogantprogrammer.demos;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
